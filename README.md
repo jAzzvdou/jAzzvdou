@@ -35,28 +35,25 @@
 
 <h3 align="center">My 42 Projects</h3>
 
-###
+<a href="https://github.com/jAzzvdou/Libft">
+<img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/libftm.png" />
+  
+</a>
+<a href="https://github.com/jAzzvdou/Printf">
+<img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/ft_printfm.png" />
 
-<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/libftm.png"  />
-
-###
-
-<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/ft_printfm.png"  />
-
-###
-
-<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/get_next_linem.png"  />
-
-###
-
-<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/born2berootm.png"  />
-
-###
-
-<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/pipexm.png"  />
-
-###
-
-<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/push_swapm.png"  />
-
-###
+</a>
+<a href="https://github.com/jAzzvdou/GetNextLine">
+<img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/get_next_linem.png" />
+  
+</a>
+<a href="">
+<img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/born2berootm.png" />
+  
+</a>
+<a href="https://github.com/jAzzvdou/Pipex">
+<img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/pipexm.png" />
+  
+</a>
+<a href="https://github.com/jAzzvdou/PushSwap">
+<img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/push_swapm.png" />
