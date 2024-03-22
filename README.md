@@ -33,6 +33,30 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jAzzvdou/jAzzvdou/output/snake.svg" alt="Snake animation" />
+<h3 align="center">My 42 Projects</h3>
+
+###
+
+<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/libftm.png"  />
+
+###
+
+<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/ft_printfm.png"  />
+
+###
+
+<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/get_next_linem.png"  />
+
+###
+
+<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/born2berootm.png"  />
+
+###
+
+<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/pipexm.png"  />
+
+###
+
+<img align="left" height="80" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/push_swapm.png"  />
 
 ###
