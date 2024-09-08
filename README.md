@@ -65,3 +65,7 @@
 </a>
 <a href="https://github.com/jAzzvdou/Philosophers">
 <img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/philosophersm.png" />
+
+</a>
+<a href="https://github.com/jAzzvdou/Minishell">
+<img height="80px" src="https://raw.githubusercontent.com/jou-code/42-project-badges/main/badges/minishellm.png" />
