@@ -14,6 +14,8 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
@@ -26,7 +28,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-azevedo-martins-9221b6256/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-azevedo-9221b6256/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
